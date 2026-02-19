@@ -1,0 +1,18 @@
+var a=10;
+let b=20;
+const c=30;
+d=40;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(c));
+console.log(typeof(d));
+let num=100;
+let str="hello world";
+let und;
+let nul =null;
+let bool=true;
+console.log(typeof(num));
+console.log(typeof(str));
+console.log(typeof(und));
+console.log(typeof(nul));
+console.log(typeof(bool));
